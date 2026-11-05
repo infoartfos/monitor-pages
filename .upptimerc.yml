@@ -12,7 +12,7 @@ sites:
   - name: powersuppliers.io
     url: https://powersuppliers.io
   - name: FHZ
-    url: sgi.fhz.org.ar
+    url: https://sgi.fhz.org.ar
   - name: Albanesi Portal
     url: https://proveedores.albanesi.com.ar
   - name: Admin Albanesi Portal
