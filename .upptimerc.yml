@@ -10,7 +10,7 @@ sites:
   - name: powerstate.io
     url: https://powerstate.io
   - name: powersuppliers.io
-    url: https://powersuppliers.io/
+    url: https://powersuppliers.io
   - name: FHZ
     url: sgi.fhz.org.ar
   - name: Albanesi Portal
@@ -20,7 +20,7 @@ sites:
   - name: PS Albanesi Portal
     url: https://ps-proveedores.albanesi.com.ar
   - name: PHPMyAdmin Albanesi Portal
-    url: http://phpmyadmin-proveedores.albanesi.com.ar/
+    url: http://phpmyadmin-proveedores.albanesi.com.ar
   - name: Contreras
     url: https://www.contreras.com.ar
   - name: Desarrollo Contreras
@@ -42,11 +42,11 @@ sites:
   - name: DEMO suppliersOne admin
     url: https://admin-suppliersone.artfosdev.com
   - name: Janax IT
-    url: https://janaxit.com.ar/
+    url: https://janaxit.com.ar
   - name: JanaxSoftware (anterior)
-    url: https://janaxsoftware.com.ar/
+    url: https://janaxsoftware.com.ar
   - name: Intranet Janax 
-    url: https://intranet.janaxit.com.ar/
+    url: https://intranet.janaxit.com.ar
 
 status-website:
   cname: monitor-pages.artfosdev.com
