@@ -47,6 +47,8 @@ sites:
     url: https://janaxsoftware.com.ar
   - name: Intranet Janax 
     url: https://intranet.janaxit.com.ar
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   cname: monitor-pages.artfosdev.com
