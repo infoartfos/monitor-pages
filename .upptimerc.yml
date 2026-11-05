@@ -50,7 +50,7 @@ sites:
 
 status-website:
   cname: monitor-pages.artfosdev.com
-  baseUrl: /monitor-pages
+  # baseUrl: /monitor-pages
   logoUrl: https://artfos.com.ar/wp-content/uploads/2019/11/logoweb2.png
   name: Estado de Servicios
   introTitle: "Estado de los Servicios"
