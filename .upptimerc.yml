@@ -7,10 +7,46 @@ sites:
     url: https://www.artfos.com.ar
   - name: Intranet Artfos
     url: https://intranet.artfos.com.ar
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: powerstate.io
+    url: https://powerstate.io
+  - name: powersuppliers.io
+    url: https://powersuppliers.io/
+  - name: FHZ
+    url: sgi.fhz.org.ar
+  - name: Albanesi Portal
+    url: https://proveedores.albanesi.com.ar
+  - name: Admin Albanesi Portal
+    url: https://admin-proveedores.albanesi.com.ar
+  - name: PS Albanesi Portal
+    url: https://ps-proveedores.albanesi.com.ar
+  - name: PHPMyAdmin Albanesi Portal
+    url: http://phpmyadmin-proveedores.albanesi.com.ar/
+  - name: Contreras
+    url: https://www.contreras.com.ar
+  - name: Desarrollo Contreras
+    url: https://contreras.artfosdev.com
+  - name: Mas Valores
+    url: https://www.masvalores.com.ar
+  - name: Transportes Ruta 66
+    url: https://www.transportesruta66.com.ar
+  - name: DEMO multitruck
+    url: multitruck.artfosdev.com
+  - name: DEMO Portal
+    url: https://demoportal.artfosdev.com
+  - name: DEMO Portal admin
+    url: https://admin-demoportal.artfosdev.com
+  - name: DEMO Portal proxy
+    url: https://proxy-demoportal.artfosdev.com
+  - name: DEMO SuppliersOne
+    url: https://suppliersone.artfosdev.com
+  - name: DEMO suppliersOne admin
+    url: https://admin-suppliersone.artfosdev.com
+  - name: Janax IT
+    url: https://janaxit.com.ar/
+  - name: JanaxSoftware (anterior)
+    url: https://janaxsoftware.com.ar/
+  - name: Intranet Janax 
+    url: https://intranet.janaxit.com.ar/
 
 status-website:
   cname: monitor-pages.artfosdev.com
@@ -25,5 +61,3 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
