@@ -94,72 +94,80 @@
     "url": "https://proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/proveedores.albanesi.com.ar.ico",
     "slug": "albanesi-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.87%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "97.87%",
     "time": 613,
     "timeDay": 613,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-06": 15
+    }
   },
   {
     "name": "Admin Albanesi Portal",
     "url": "https://admin-proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/admin-proveedores.albanesi.com.ar.ico",
     "slug": "admin-albanesi-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 1221,
     "timeDay": 1221,
     "timeWeek": 1221,
     "timeMonth": 1221,
     "timeYear": 1221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-06": 10
+    }
   },
   {
     "name": "PS Albanesi Portal",
     "url": "https://ps-proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/ps-proveedores.albanesi.com.ar.ico",
     "slug": "ps-albanesi-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 1064,
     "timeDay": 1064,
     "timeWeek": 1064,
     "timeMonth": 1064,
     "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-06": 5
+    }
   },
   {
     "name": "PHPMyAdmin Albanesi Portal",
     "url": "http://phpmyadmin-proveedores.albanesi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/phpmyadmin-proveedores.albanesi.com.ar.ico",
     "slug": "php-my-admin-albanesi-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 443,
     "timeDay": 443,
     "timeWeek": 443,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-06": 1
+    }
   },
   {
     "name": "Contreras",
